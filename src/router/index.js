@@ -1,9 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Map from '@/components/Map'
-import Order from '@/components/Order'
-import Hardware from "@/components/Hardware"
-import User from "@/components/User";
 
 Vue.use(Router);
 

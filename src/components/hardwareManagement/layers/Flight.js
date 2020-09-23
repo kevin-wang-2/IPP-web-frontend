@@ -4,8 +4,6 @@ import VectorSource from "ol/source/Vector"
 
 import EventEmitter from "events"
 
-import axios from "axios"
-
 import Feature from "ol/Feature"
 import Point from "ol/geom/Point"
 import LineString from "ol/geom/LineString"

@@ -2,8 +2,6 @@ import Collection from "ol/Collection"
 import VectorLayer from "ol/layer/Vector"
 import VectorSource from "ol/source/Vector"
 
-import axios from "axios"
-
 import Feature from "ol/Feature"
 import Point from "ol/geom/Point"
 

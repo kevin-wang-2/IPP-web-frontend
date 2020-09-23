@@ -79,7 +79,6 @@
 </template>
 
 <script>
-import axios from "axios"
 import qs from "qs"
 import crypto from "crypto";
 

@@ -8,7 +8,6 @@ import './assets/vendor/Hint.css'
 import App from './App'
 import router from './router'
 
-import $ from 'jquery'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min'
 
@@ -16,8 +15,6 @@ import 'bootstrap/dist/js/bootstrap.min'
 import 'babel-polyfill'
 import Promise from 'es6-promise'
 require("es6-promise").polyfill();
-
-import axios from "axios"
 
 window.auth = {
   token: "",

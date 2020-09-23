@@ -57,7 +57,6 @@ import Polygon from "ol/geom/Polygon"
 
 import * as style from "ol/style"
 
-import axios from "axios"
 import qs from "qs"
 
 import EventEmitter from "events"
